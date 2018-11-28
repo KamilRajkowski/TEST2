@@ -7,7 +7,7 @@
 int main()
 {
     std::cout << "Hello World!\n"; 
-	czy to się wyśle?
+	a to?
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
