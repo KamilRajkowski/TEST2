@@ -8,6 +8,7 @@ int main()
 {
     std::cout << "Hello World!\n"; 
 	a to?
+		12345
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
